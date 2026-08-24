@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|c:\\users\\snlsu\\onedrive\\desktop\\yeni klas\u00F6r\\jeotechminingsystem1\\jeotechminingsystem1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\ui\\minemapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\ui\\minemapcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\algorithms\\minegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\algorithms\\minegraph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\models\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\models\\helmet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\communication\\simulationsensorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\communication\\simulationsensorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\communication\\realsensorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\communication\\realsensorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\communication\\isensordataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\communication\\isensordataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\services\\safetyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\services\\safetyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\models\\minenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\models\\minenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\models\\routeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\models\\routeresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\models\\sensordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\algorithms\\dijkstraalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\algorithms\\dijkstraalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\jeotechminingsystem1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FDE0590-B198-4264-9631-C10020C2654E}|JeoTechMiningSystem1\\JeoTechMiningSystem1.csproj|solutionrelative:jeotechminingsystem1\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DijkstraAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Algorithms\\DijkstraAlgorithm.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Algorithms\\DijkstraAlgorithm.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Algorithms\\DijkstraAlgorithm.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Algorithms\\DijkstraAlgorithm.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-17T11:48:31.234Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MineMapControl.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\UI\\MineMapControl.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\UI\\MineMapControl.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\UI\\MineMapControl.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\UI\\MineMapControl.cs",
+              "ViewState": "AgIAADMBAAAAAAAAAAAQwEYBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:17:51.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SafetyService.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Services\\SafetyService.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Services\\SafetyService.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Services\\SafetyService.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Services\\SafetyService.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:16:46.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Services\\RouteService.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Services\\RouteService.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Services\\RouteService.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Services\\RouteService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:16:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SensorData.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\SensorData.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Models\\SensorData.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\SensorData.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Models\\SensorData.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:13:36.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteResult.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\RouteResult.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Models\\RouteResult.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\RouteResult.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Models\\RouteResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:13:27.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MineNode.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\MineNode.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Models\\MineNode.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\MineNode.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Models\\MineNode.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:13:15.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Helmet.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\Helmet.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Models\\Helmet.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\Helmet.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Models\\Helmet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:13:06.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Models\\Enums.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Models\\Enums.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:11:56.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SimulationSensorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Communication\\SimulationSensorProvider.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Communication\\SimulationSensorProvider.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Communication\\SimulationSensorProvider.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Communication\\SimulationSensorProvider.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:09:02.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RealSensorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Communication\\RealSensorProvider.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Communication\\RealSensorProvider.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Communication\\RealSensorProvider.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Communication\\RealSensorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:08:42.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ISensorDataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Communication\\ISensorDataProvider.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Communication\\ISensorDataProvider.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Communication\\ISensorDataProvider.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Communication\\ISensorDataProvider.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvwwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T11:08:04.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MineGraph.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Algorithms\\MineGraph.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Algorithms\\MineGraph.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Algorithms\\MineGraph.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Algorithms\\MineGraph.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-16T17:24:27.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Form1.Designer.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T19:09:08.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Form1.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Form1.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Form1.cs",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Form1.cs",
+              "ViewState": "AgIAACoFAAAAAAAAAAAAAC4FAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T19:07:46.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Form1.cs",
+              "RelativeDocumentMoniker": "JeoTechMiningSystem1\\Form1.cs",
+              "ToolTip": "C:\\Users\\snlsu\\OneDrive\\Desktop\\Yeni klas\u00F6r\\JeoTechMiningSystem1\\JeoTechMiningSystem1\\Form1.cs [Design]",
+              "RelativeToolTip": "JeoTechMiningSystem1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T19:04:16.803Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

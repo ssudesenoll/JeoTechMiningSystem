@@ -1,0 +1,9 @@
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\bin\Debug\JeoTechMiningSystem1.exe.config
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\bin\Debug\JeoTechMiningSystem1.exe
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\bin\Debug\JeoTechMiningSystem1.pdb
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\obj\Debug\JeoTechMiningSystem1.csproj.AssemblyReference.cache
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\obj\Debug\JeoTechMiningSystem1.Properties.Resources.resources
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\obj\Debug\JeoTechMiningSystem1.csproj.GenerateResource.cache
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\obj\Debug\JeoTechMiningSystem1.csproj.CoreCompileInputs.cache
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\obj\Debug\JeoTechMiningSystem1.exe
+C:\Users\snlsu\OneDrive\Desktop\Yeni klasör\JeoTechMiningSystem1\JeoTechMiningSystem1\obj\Debug\JeoTechMiningSystem1.pdb
